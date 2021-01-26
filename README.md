@@ -1,17 +1,17 @@
 ## Data-science-fundamentals
 ### 💻Languages for data science
-- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/>Python | [Libraries](#-python-libraries)
-- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/r.png" width="20"/>R programming
-- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/sql.png" width="20"/>SQL
-- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/scala.png" width="20"/>Scala
-- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/java.png" width="20"/>Java
-- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/c++.png" width="20"/>C++
-- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/julia.png" width="20"/>Julia
-- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/javascript.png" width="20"/>Javascript
-- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/php.png" width="20"/>PHP
-- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/go.png" width="20"/>GO
-- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/ruby.png" width="20"/>Ruby
-- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/vb.png" width="20"/>Visual Basic
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/> Python | [Libraries](#-python-libraries)
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/r.png" width="20"/> R programming
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/sql.png" width="20"/> SQL
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/scala.png" width="20"/> Scala
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/java.png" width="20"/> Java
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/c++.png" width="20"/> C++
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/julia.png" width="20"/> Julia
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/javascript.png" width="20"/> Javascript
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/php.png" width="20"/> PHP
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/go.png" width="20"/> GO
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/ruby.png" width="20"/> Ruby
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/vb.png" width="20"/> Visual Basic
 
 ### <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/></li> Python libraries
 <ul name="python-intro">
@@ -26,7 +26,7 @@
   <li>NLTK Natural Language ToolKit</li>
 </ul>
 
-### <img src="https://www.flaticon.com/svg/vstatic/svg/1387/1387537.svg?token=exp=1611629180~hmac=39b13fab117fce7de71fd245f88f0e56" width="20"/></li> R libraries
+### <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/r.png" width="20"/></li> R libraries
 <ul>
   <li>Numpy</li>
   <li>Pandas</li>
