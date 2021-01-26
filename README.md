@@ -1,4 +1,10 @@
 ## Data-science-fundamentals
+### Content
+- [Data Science Languages](#-languages-for-data-science)
+- [Data Science Tools]()
+
+
+
 ### 💻Languages for data science
 - <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/> Python | [Libraries](#-python-libraries)
 - <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/r.png" width="20"/> R programming
