@@ -1,8 +1,10 @@
 ## Data-science-fundamentals
 ### 💻Languages for data science
+[Link](#-python-libraries)
 <ul>
-  <li>Python <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/> | ![Link](#-python-libraries)
+  <li>Python <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/> | 
   </li>
+  
   <li>R programming</li>
   <li>SQL</li>
   <li>Scala</li>
