@@ -1,9 +1,9 @@
 ## Data-science-fundamentals
 ### Content
 1. [Data Science Languages](#languages-for-data-science)
-2. [Data Science Tools]()
-
-
+2. [Data Science with python]()
+3. [Data Science with R]()
+4. [Data Science Tools]()
 
 ### 💻Languages for data science
 - <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/> Python | [Libraries](#-python-libraries)
@@ -18,19 +18,6 @@
 - <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/go.png" width="20"/> GO
 - <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/ruby.png" width="20"/> Ruby
 - <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/vb.png" width="20"/> Visual Basic
-
-### <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/></li> Python libraries
-<ul name="python-intro">
-  <li>Numpy</li>
-  <li>Pandas</li>
-  <li>SciPy</li>
-  <li>Matplotlib</li>
-  <li>Pytorch - AI</li>
-  <li>TensorFlow - AI</li>
-  <li>Keras - AI</li>
-  <li>Scikit-learn - AI</li>
-  <li>NLTK Natural Language ToolKit</li>
-</ul>
 
 ### <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/sql.png" width="20"/></li> SQL Databases
 <ul>
