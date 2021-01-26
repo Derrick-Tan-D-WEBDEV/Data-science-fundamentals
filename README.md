@@ -26,7 +26,7 @@
   <li>NLTK Natural Language ToolKit</li>
 </ul>
 
-### <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/r.png" width="20"/></li> R libraries
+<!-- ### <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/r.png" width="20"/></li> R libraries
 <ul>
   <li>Numpy</li>
   <li>Pandas</li>
@@ -37,4 +37,4 @@
   <li>Keras - AI</li>
   <li>Scikit-learn - AI</li>
   <li>NLTK Natural Language ToolKit</li>
-</ul>
+</ul> -->
