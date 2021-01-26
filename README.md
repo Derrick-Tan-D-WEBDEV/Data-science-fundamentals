@@ -2,7 +2,7 @@
 ### 💻Languages for data science
 <ul>
   <li>Python <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/> | 
-    [Markdowntest]
+    [Python libraries](###Python libraries)
   </li>
   <li>R programming</li>
   <li>SQL</li>
@@ -17,8 +17,8 @@
   <li>Visual Basic</li>
 </ul>
 
-### <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/></li> Python libraries [Markdowntest]
-<ul name="python-intro">
+### <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/></li> Python libraries
+<ul>
   <li>Numpy</li>
   <li>Pandas</li>
   <li>SciPy</li>
