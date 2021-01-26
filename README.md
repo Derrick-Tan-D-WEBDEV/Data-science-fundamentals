@@ -21,4 +21,9 @@
   <li>Pandas</li>
   <li>SciPy</li>
   <li>Matplotlib</li>
+  <li>Pytorch - AI</li>
+  <li>TensorFlow - AI</li>
+  <li>Keras - AI</li>
+  <li>Scikit-learn - AI</li>
+  <li>NLTK Natural Language ToolKit</li>
 </ul>
