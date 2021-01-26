@@ -70,3 +70,16 @@
     <li>R Studio</li>
     <li>Spyder</li>
 </ul>
+
+### Execution Enviroments
+<ul>
+    <li>Apache Spark</li>
+    <li>Apache Flink</li>
+    <li>Ray</li>
+</ul>
+
+### Fully Integrated Visual Tools
+<ul>
+    <li>KNIME</li>
+    <li>orange</li>
+</ul>
