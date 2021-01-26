@@ -1,7 +1,7 @@
 ## Data-science-fundamentals
 ### Content
-- [Data Science Languages](#-languages-for-data-science)
-- [Data Science Tools]()
+1. [Data Science Languages](#languages-for-data-science)
+2. [Data Science Tools]()
 
 
 
