@@ -1,21 +1,17 @@
 ## Data-science-fundamentals
 ### 💻Languages for data science
-<ul>
-  <li>Python <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/> | 
-    [Markdowntest]
-  </li>
-  <li>R programming</li>
-  <li>SQL</li>
-  <li>Scala</li>
-  <li>Java</li>
-  <li>C++</li>
-  <li>Julia</li>
-  <li>Javascript</li>
-  <li>PHP</li>
-  <li>GO</li>
-  <li>Ruby</li>
-  <li>Visual Basic</li>
-</ul>
+- <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/>Python | [Link](#-python-libraries)
+- R programming
+- SQL
+- Scala
+- Java
+- C++
+- Julia
+- Javascript
+- PHP
+- GO
+- Ruby
+- Visual Basic
 
 ### <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/python.png" width="20"/></li> Python libraries [Markdowntest]
 <ul name="python-intro">
