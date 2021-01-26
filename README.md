@@ -1,5 +1,5 @@
 ## Data-science-fundamentals
-### Languages for data science
+### 💻Languages for data science
 <ul>
   <li>Python</li>
   <li>R programming</li>
