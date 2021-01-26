@@ -1,4 +1,4 @@
-## <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/sql.png" width="20"/></li> Open Source Tools for Data Science
+## <img src="https://github.com/Derrick-Tan-D-WEBDEV/Data-science-fundamentals/blob/main/img/guide.png" width="20"/></li> Open Source Tools for Data Science
 ### Data Management
 <ul>
   <li>MySQL - Relational Database</li>
